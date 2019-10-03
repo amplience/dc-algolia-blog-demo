@@ -1,0 +1,10 @@
+[build]
+  publish = "dist"
+  command = "npm run generate"
+
+[template.environment]
+  ALGOLIA_APPLICATION_ID = "Application ID from the 'API Keys' page ALGOLIA_INDEX_NAME Algolia."
+  ALGOLIA_INDEX_NAME = "Specify an existing Algolia index name, or use a new name here and it will be created"
+  ALGOLIA_SEARCH_API_KEY = "Search API Key from the 'API Keys' page on the Algolia site"
+  DC_BLOG_POST_RENDERING_TEMPLATE = "The name of your rendering template uploaded to Amplience Content Hub"
+  DC_RENDERING_SERVICE_ACCOUNT_ID = "Replace with your Amplience company tag"
