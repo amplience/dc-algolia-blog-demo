@@ -64,7 +64,7 @@
     }
   },
   "dependencies": {
-    "@nuxtjs/axios": "^5.3.6",
+    "@nuxtjs/axios": "^5.11.0",
     "algoliasearch": "^3.33.0",
     "cross-env": "^5.2.0",
     "dayjs": "^1.8.14",
