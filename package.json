@@ -64,11 +64,11 @@
     }
   },
   "dependencies": {
-    "@nuxtjs/axios": "^5.3.6",
+    "@nuxtjs/axios": "^5.13.6",
     "algoliasearch": "^3.33.0",
     "cross-env": "^5.2.0",
     "dayjs": "^1.8.14",
-    "dc-delivery-sdk-js": "^0.2.0",
+    "dc-delivery-sdk-js": "^0.11.0",
     "element-ui": "2.7.2",
     "instantsearch.css": "^7.3.1",
     "nuxt": "^2.4.0",
