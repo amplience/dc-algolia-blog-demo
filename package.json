@@ -65,7 +65,7 @@
   },
   "dependencies": {
     "@nuxtjs/axios": "^5.3.6",
-    "algoliasearch": "^3.33.0",
+    "algoliasearch": "^4.0.0",
     "cross-env": "^5.2.0",
     "dayjs": "^1.8.14",
     "dc-delivery-sdk-js": "^0.2.0",
